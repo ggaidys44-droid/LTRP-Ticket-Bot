@@ -1,1 +1,0 @@
-# LTRP-Ticket-Bot
